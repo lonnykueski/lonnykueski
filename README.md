@@ -15,5 +15,4 @@ Trabajo entre escenarios donde el test case es protagonista, el `assert` es libr
 
 ¿QA? Sí. ¿Herramientas? Las tengo. ¿Contexto? Lo destripo. ¿Sentido del humor? Solo el suficiente para sobrevivir a tres rediseños y un sprint con “cambios de último minuto”.
 Documento lo que duele y siempre dejo una sonrisa... incluso si el build falla.
-¿Y humor bajo presión? Siempre. Porque si hay algo más valioso que un bug report bien escrito…  
-es saber cuándo soltar el chascarrillo perfecto.
+¿Y humor bajo presión? Siempre. Porque si hay algo más valioso que un bug report bien escrito…  es saber cuándo soltar el chascarrillo perfecto.

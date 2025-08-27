@@ -8,7 +8,7 @@ y el drama fintech: 🎬 *“Downpayment: la promesa del primer pago”*
 
 ![Banner](banner.png)
 
-Ingeniero QA con alma de *locutor* y mente de detective y mi día a día se mueve entre bugs que no saben esconderse y flujos que creen que pueden escaparse. He navegado regresiones manuales maratónicas, flows interrumpidos por deploys traviesos y builds que no se explican ni con Stack Overflow.  
+Ingeniero QA con alma de *locutor* y mente de detective; mi día a día se mueve entre bugs que no saben esconderse y flujos que creen que pueden escaparse. He navegado regresiones manuales maratónicas, flows interrumpidos por deploys traviesos y builds que no se explican ni con Stack Overflow.  
 Pero también he presentado **demos semanales**, **presentaciones UAT** que se convirtieron en estrenos, y alguna que otra **All Hands donde el bug fue menos viral que mi chiste**.
 
 Trabajo entre escenarios donde el test case es protagonista, el `assert` es libre y el `timeout` nunca tiene la última palabra.  
